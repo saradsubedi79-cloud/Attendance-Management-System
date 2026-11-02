@@ -1,0 +1,28 @@
+AttendanceManagementSystem/
+│
+├── src/
+│   ├── model/
+│   │   ├── Student.java
+│   │   └── Attendance.java
+│   │
+│   ├── manager/
+│   │   └── AttendanceManager.java
+│   │
+│   ├── gui/
+│   │   ├── Dashboard.java
+│   │   ├── StudentPanel.java
+│   │   ├── AttendancePanel.java
+│   │   └── ReportPanel.java
+│   │
+│   ├── exception/
+│   │   └── DuplicateStudentException.java
+│   │
+│   └── Main.java
+│
+├── screenshots/
+├── README.md
+└── ProjectReport.docx
+
+
+
+ 
